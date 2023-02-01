@@ -16,7 +16,7 @@ public:
     ~Statistics();
     int getX();
     int getY();
-    //! [Wykres elementów skończonych](https://i.imgur.com/EKruG7W.png)
+    //! [Wykres elementów skończonych]()
     float fun1();
     float fun2();
 private:
